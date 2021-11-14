@@ -21,7 +21,7 @@ Don't worry if the movie that you are looking for is not auto-suggested. Just ty
 
 ## 'Invalid Request' Error
 
-If you're getting invalid request error in your application, kindly go through this issue - https://github.com/amitkumardwivedi435
+If you're getting invalid request error in your application, kindly go through this issue - https://github.com/s1997himanshu?tab=repositories
 
 ## How to get the API key?
 
